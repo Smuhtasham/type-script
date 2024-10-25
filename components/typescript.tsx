@@ -29,10 +29,12 @@ function add(a: number, b: number) {
   return result;
 }
 
+type CalFn = (a: number, b: number) => number;
+
 function calculate(
   a: number,
   b: number,
-  cal: (a: number, b: number) => number
+  cal: CalFn
 ) {
   cal(a, b);
 }
