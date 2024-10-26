@@ -1,5 +1,7 @@
 // BASIC TYPES
 
+import { useState } from "react";
+
 // let username:any;
 // username=23;
 // username="Name";
@@ -62,3 +64,12 @@
 
 //   }
 // }
+
+// type CourseGoal = {
+//   title:string;
+//   description:string;
+//   id:number;
+// }
+
+// const [goals , setGoals] = useState<CourseGoal[]>([]);
+
