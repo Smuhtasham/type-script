@@ -1,5 +1,8 @@
 // BASIC TYPES
 
+import { Props } from "next/script";
+import { ComponentPropsWithoutRef, ElementType } from "react";
+
 // import { useState } from "react";
 
 // let username:any;
@@ -36,7 +39,7 @@
 // function calculate(
 //   a: number,
 //   b: number,
-//   cal: CalFn 
+//   cal: CalFn
 // ) {
 //   cal(a, b);
 // }
@@ -73,3 +76,12 @@
 
 // const [goals , setGoals] = useState<CourseGoal[]>([]);
 
+// type Container<T extends ElementType> = {
+//   as: T;
+//   children:React.ReactNode;
+// } & ComponentPropsWithoutRef<T>  ;
+
+// export default function Container<C extends ElementType>({ as,children,...props }: Container<C>) {
+//   const Component = as || 'div';
+//   return <Component {...props}>{children}</Component>;
+// }
