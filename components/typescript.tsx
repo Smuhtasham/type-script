@@ -1,7 +1,7 @@
 // BASIC TYPES
 
-import { Props } from "next/script";
-import { ComponentPropsWithoutRef, ElementType } from "react";
+// import { Props } from "next/script";
+// import { ComponentPropsWithoutRef, ElementType } from "react";
 
 // import { useState } from "react";
 
