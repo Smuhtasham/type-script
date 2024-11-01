@@ -66,8 +66,7 @@
 //   add(user){
 
 //   }
-// }
-
+// }s
 // type CourseGoal = {
 //   title:string;
 //   description:string;
