@@ -7,7 +7,6 @@
 // let username:any;
 // username=23;
 // username="Name";
-
 // let user: {
 //     name:string;
 //     id:number | string;
