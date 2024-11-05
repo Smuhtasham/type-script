@@ -11,7 +11,6 @@
 //     name:string;
 //     id:number | string;
 // } ;
-
 //  user = {
 // name:"max",
 // id:2,
