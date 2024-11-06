@@ -15,7 +15,6 @@
 // name:"max",
 // id:2,
 // };
-
 // let hobbies: Array<string>;
 // let hobbies: string[];
 
