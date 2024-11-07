@@ -20,7 +20,6 @@
 
 // hobbies = ["sport", "arie"];
 // hobbies = [23, 2];
-
 // ------------------------------------------
 
 // function add(a: number, b: number): undefined | number | void {
