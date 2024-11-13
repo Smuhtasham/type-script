@@ -17,7 +17,6 @@
 // };
 // let hobbies: Array<string>;
 // let hobbies: string[];
-
 // hobbies = ["sport", "arie"];
 // hobbies = [23, 2];
 // ------------------------------------------
